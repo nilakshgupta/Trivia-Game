@@ -1,2 +1,2 @@
 # Trivia-Game
-A game created to explore JavaScript timers, jQuery, and bootstrap.
+A Trivia app created by using JavaScript for the logic and jQuery to manipulate HTML and Bootstrap was used for styling.
